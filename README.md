@@ -8,5 +8,7 @@ This website takes data of corona cases of all states  and displays data for eac
 USE CASE OF WEBSITE: It tracks the number of active cases of the day and hence tracks the cure rate of nation.
 
 EVERY LIFE MATTERS!!!
+
 HATS OFF TO ALL COVID-19 WARRIORS!!
+
 LET'S HOPE FOR THE BEST!!!
